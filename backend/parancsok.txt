@@ -1,0 +1,5 @@
+1.npm init -y
+2.npm i express
+3.npm i cors sqlite3 fs
+
+Hozd létre a server.js és db.js fájlokat. Ezután először a node db.js használd ami létrehozza az a db fájlt és utána írd be a consolba a node server.js parancsot.
